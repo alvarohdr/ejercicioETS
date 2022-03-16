@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'area 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' '/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'area 1.0.0 API'
+es.iespuerto.area
+es.iespuerto.alvarohdr
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/src/main/java = 1647449313692
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/constant-values.html = 1647450200814
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/script.js = 1647450201178
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/package-search-index.zip = 1647450201058
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/help-doc.html = 1647450201154
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/stylesheet.css = 1647450201178
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/overview-summary.html = 1647450201134
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/member-search-index.js = 1647450201074
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/allpackages-index.html = 1647450201122
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/overview-tree.html = 1647450200902
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/index-all.html = 1647450201082
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/deprecated-list.html = 1647450200938
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/type-search-index.js = 1647450201070
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/member-search-index.zip = 1647450201074
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/type-search-index.zip = 1647450201074
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/allclasses-index.html = 1647450201114
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/index.html = 1647450200954
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/element-list = 1647450200726
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/package-search-index.js = 1647450201010
+/home/alumno/Escritorio/ETS/ejercicioETS/ejercicioETS/area/target/site/apidocs/search.js = 1647450201190
